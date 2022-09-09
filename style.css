@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#section1{
+    border: 1px solid black;
+    background-color: #606C38;
+}
+
+footer, header{
+    background-color: #283618;
+}
+
+#flexHead{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-size: x-large;
+    margin: 10px 50px;
+    color: #BC6C25;
+}
+
+body{
+    background-color: black;
+    margin: 0 300px;
+}
+
+#flexDiv{
+    margin: 0 20px;
+    height: 91vh;
+}
+
+.divTitulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px 95px;
+}
+
+.divImg{
+    width: 640px;
+}
+
+.imgTitulo{
+    width: 100%;
+}
+
+h2, h3{
+    font-size: x-large;
+    color: #FEFAE0;
+    text-align: center;
+}
+
+p{
+    font-size: medium;
+    padding: 5px 0;
+    color: #BC6C25;
+    margin: 0;
+}
+
+.titulos{
+    padding: 10px 0;
+}
+
+#opciones{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 100px;
+}
+
+.card {
+    border: 0;
+    width: 190px;
+}
+
+.colorboton{
+    background-color: #BC6C25;
+    color: #FEFAE0;
+}
+
+.flexFooter{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    
+}
+
+.card-body{
+    text-align: center;
+    padding: 10px 10px;
+    background-color: #283618;
+    color: #FEFAE0;
+}
+
+.americaFondo{
+    background-color: #606C38;
+    padding: 10px 100px;
+}
+
+.card-band{
+    margin: 100px 0;
+}
+
+.card-img-band{
+    height: 370px;
+}
+
+.img-band{
+    width: 100%;
+    height: 100%;
+}
+
+.card-body-band{
+    padding: 35px;
+    text-align: center;
+    background-color: #283618;
+}
+
+#input{
+    height: 36px;
+    width: 300px;
+}

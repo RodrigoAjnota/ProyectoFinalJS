@@ -1,0 +1,94 @@
+[
+    {
+        "nombre": "Argentina",
+        "img": "bandera-argentina.webp"
+    },
+    {
+        "nombre": "Bolivia",
+        "img": "bandera-bolivia.webp"
+    },
+    {
+        "nombre": "Brasil",
+        "img": "bandera-brasil.webp"
+    },
+    {
+        "nombre": "Canada",
+        "img": "bandera-canada.webp"
+    },
+    {
+        "nombre": "Chile",
+        "img": "bandera-chile.webp"
+    },
+    {
+        "nombre": "Colombia",
+        "img": "bandera-colombia.webp"
+    },
+    {
+        "nombre": "Costa Rica",
+        "img": "bandera-costa-rica.webp"
+    },
+    {
+        "nombre": "Cuba",
+        "img": "bandera-cuba.webp"
+    },
+    {
+        "nombre": "Ecuador",
+        "img": "bandera-ecuador.webp"
+    },
+    {
+        "nombre": "El Salvador",
+        "img": "bandera-el-salvador.webp"
+    },
+    {
+        "nombre": "Estados Unidos",
+        "img": "bandera-estados-unidos.webp"
+    },
+    {
+        "nombre": "Groenlandia",
+        "img": "bandera-groenlandia.webp"
+    },
+    {
+        "nombre": "Guatemala",
+        "img": "bandera-guatemala.webp"
+    },
+    {
+        "nombre": "Honduras",
+        "img": "bandera-honduras.webp"
+    },
+    {
+        "nombre": "Jamaica",
+        "img": "bandera-jamaica.webp"
+    },
+    {
+        "nombre": "Mexico",
+        "img": "bandera-mexico.webp"
+    },
+    {
+        "nombre": "Nicaragua",
+        "img": "bandera-nicaragua.webp"
+    },
+    {
+        "nombre": "Panama",
+        "img": "bandera-panama.webp"
+    },
+    {
+        "nombre": "Peru",
+        "img": "bandera-peru.webp"
+    },
+    {
+        "nombre": "Puerto Rico",
+        "img": "bandera-puerto-rico.webp"
+    },
+    {
+        "nombre": "Republica Dominicana",
+        "img": "bandera-rep-dominicana.webp"
+    },
+    {
+        "nombre": "Uruguay",
+        "img": "bandera-uruguay.webp"
+    },
+    {
+        "nombre": "Venezuela",
+        "img": "bandera-venezuela.webp"
+    }
+]
